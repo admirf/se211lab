@@ -5,3 +5,7 @@ function foo() {
 function bar() {
   console.log('foo')
 }
+
+function test() {
+  console.log('test')
+}
